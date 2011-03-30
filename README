@@ -1,0 +1,4 @@
+A collection of classes & examples in .NET
+
+- HttpParameters - Provides a way to retrieve typed QueryString & Form params.
+- ApplicationSettings - Provides a way to retrieve typed app.config appSettings.
